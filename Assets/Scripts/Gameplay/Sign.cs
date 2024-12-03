@@ -13,6 +13,8 @@ public class PlayerHouseSign : MonoBehaviour, Interactable
 
     private IEnumerator InteractCoroutine(Transform initiator)
     {
+        int selectedChoice = 0;
+
         // Ensure that playerHouseDialogue is assigned
         if (playerHouseDialogue == null)
         {
@@ -21,6 +23,6 @@ public class PlayerHouseSign : MonoBehaviour, Interactable
         }
 
         // Use the preassigned dialogue
-        yield return StartCoroutine(DialogueManager.Instance.ShowDialogue(playerHouseDialogue));
+        yield return StartCoroutine(DialogueManager.Instance.ShowDialogue(playerHouseDialogue, null, new List<string>() { "Yes", "No" }, (choiceIndex) => selectedChoice = choiceIndex));
     }
 }

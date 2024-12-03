@@ -15,6 +15,7 @@ public class DialogueManager : MonoBehaviour
 
     // which dialogue box (always same)
     [SerializeField] private GameObject dialogueBox;
+    [SerializeField] private ChoiceBox choiceBox;
     // what text to display (always different, hopefully fn arg?)
     [SerializeField] private Text dialogueText;
     // speed of text display (default 45)
@@ -60,7 +61,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
     // Turns on dialogue box, then starts to show text
-    public IEnumerator ShowDialogue(Dialogue dialogue, Action onFinished=null) {
+    public IEnumerator ShowDialogue(Dialogue dialogue, Action onFinished=null, List<string> choices=null, Action<int> onChoiceSelected=null) {
         yield return new WaitForEndOfFrame();
         OnShowDialogue?.Invoke();
         IsShowing = true;
@@ -69,6 +70,9 @@ public class DialogueManager : MonoBehaviour
         
         dialogueBox.SetActive(true);
         StartCoroutine(TypeDialogue(dialogue.Lines[0]));
+        if (choices != null && choices.Count > 1) {
+            yield return choiceBox.ShowChoices(choices, onChoiceSelected);
+        }
     }
 
     // Prints dialogue line by line instead of just displaying
