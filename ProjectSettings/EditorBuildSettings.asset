@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LabBottomFloor.unity
     guid: ca3f0663dac72458fa62fb7839d029ed
+  - enabled: 1
+    path: Assets/Scenes/Castle.unity
+    guid: 81523107dbc8b4e71a6172b5648f17fc
   m_configObjects: {}
