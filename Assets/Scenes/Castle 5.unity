@@ -175,6 +175,62 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Kongzi: \u201CWhen it comes to the practice of ritual, it is "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'harmonious ease that is to be valued. It is precisely such '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'harmony that makes the Way of the Former Kings so beautiful. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'If you merely stick rigidly to ritual in all matters, great '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'and small, there will remain that which you cannot accomplish. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'Yet if you know enough to value harmonious ease but try to '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'attain it without being regulated by the rites, this will not '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: "work either.\u201D Help them understand that their conflicts are "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[8]
+      value: 'based on the forms of the ritual rather than the meaning of '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[9]
+      value: 'the rites. Educate them that being so rigid in ritual disrupts '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[10]
+      value: 'harmony. Instead, encourage them to find a balance where the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[11]
+      value: 'rites serve as a guide, but let their hearts be directed by '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[12]
+      value: 'Goodness and the shared desire for peace. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4866,6 +4922,42 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Mozi: \"To accord with Heaven\u2019s will is to take right as the "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: "governing standard. To oppose Heaven\u2019s will is to take force "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: "as the governing standard.\"\u200B Call for an end to the conflict "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'by focusing on the practical benefits of peace and unity for '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'the majority of people. Call a council meeting to create a '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'shared understanding of peaceful coexistence and emphasize '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'that rituals, while important to some, should not take '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'precedence over societal welfare. '
+      objectReference: {fileID: 0}
     - target: {fileID: 8593564624069931730, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -4984,6 +5076,62 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Han Feizi: \u201CAs for what the law confers, even the wise cannot "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'shirk from it and even the bravecdo not dare to dispute it. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'Punishments for transgressions do not bypass great ministers, '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'while rewards for goodness do not leave the common people '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'behind. Thus, in straightening out the mistakes of those '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'above, in bringing charges against the wickedness of those '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'below, in bringing order to disorder and unraveling what is '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'tangled up, in reducing envy and bringing into line the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[8]
+      value: 'disobedient, in unifying the paths of the people, nothing '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[9]
+      value: "compares to the law.\u201D Prohibit the practice of ritual if it "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[10]
+      value: 'continues to cause strife in society. Punish those who '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[11]
+      value: 'continue to disrupt the city, ensuring strict compliance with '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[12]
+      value: 'the law. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5067,8 +5215,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHouseDialogue:
     lines:
-    - Lab Sign
-    - TTTTT Sign
+    - 'Two religious groups in a city are feuding over how rituals '
+    - 'should be performed. The conflict is escalating, causing '
+    - "disruptions to daily life and threatening the city\u2019s harmony. "
+    - 'How should you handle the situation? '
 --- !u!212 &1639198323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9171,6 +9321,50 @@ PrefabInstance:
     - target: {fileID: 7491192585428709661, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
       propertyPath: m_Name
       value: CoffeeLady 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Zhuangzi: \u201CFish school together in water. People school "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'together in the Way. For things that school together in the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'water, dig a pond and they will be provided for. For things '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: "that school together in the Way, don\u2019t busy yourself with them "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: "and their lives will be settled.\u201D Like the fish in water, when "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'restraints and external controls are removed, these people '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'will be able to naturally realign themselves with what is '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'natural, being led by the Way. Therefore, you should not '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[8]
+      value: 'interfere and allow an eventual natural harmony to develop and '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[9]
+      value: 'bring peace between the two groups. '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

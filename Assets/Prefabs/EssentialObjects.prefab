@@ -771,8 +771,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayText: {fileID: 6092009262104800615}
   lines:
-  - Sad 1
-  displayTime: 3
+  - 'You have chosen the path of Mozi, a journey guided by the principle of universal
+    love and practical benefit. '
+  - Your decisions reflect a ruler who prioritizes the welfare of all, seeking to
+    maximize the greater good and minimize harm.
+  - 'The people celebrate your wise use of resources ensuring harmony is society. '
+  - 'Though sacrifices were made, history will remember your reign as one of pragmatic
+    compassion, where you worked to better the lives of those you ruled and created
+    stability and cooperation throughout the kingdom. '
+  - The end.
+  displayTime: 4
   fadeTime: 1
 --- !u!1 &3463939485608989424
 GameObject:
@@ -948,8 +956,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayText: {fileID: 6304170338018140693}
   lines:
-  - Sad 2
-  displayTime: 3
+  - You have chosen the path of Kongzi , embracing the practices of benevolence,
+    education, and ritual.
+  - 'Your decisions have upheld the moral fabric of society, where tradition and
+    virtue guide every step. '
+  - ' The people will revere you as a ruler of great dignity, whose leadership inspires
+    generations to live with harmony, respect, and order. '
+  - Though challenges arose, you have personally shown that through virtue and education,
+    a kingdom can truly flourish.
+  displayTime: 4
   fadeTime: 1
 --- !u!1 &4250597183642414052
 GameObject:
@@ -1917,8 +1932,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayText: {fileID: 6528011996227571518}
   lines:
-  - Sad 4
-  displayTime: 3
+  - 'You have chosen the path of Zhuangzi, embracing the Way and allowing the world
+    to flow naturally. '
+  - 'By stepping back and trusting in the spontaneity of life, you have created a
+    realm where balance and freedom thrive. '
+  - Though there were some periods of troubles, you allowed the situations to resolve
+    themselves, leaving things to the natural order of things.
+  - ' The people will remember your rule as one that was deeply connected to the
+    Way. '
+  displayTime: 4
   fadeTime: 1
 --- !u!1 &8073594629730311687
 GameObject:
@@ -2093,8 +2115,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayText: {fileID: 1118298585822732481}
   lines:
-  - Sad 3
-  displayTime: 3
+  - 'You have chosen the path of Han Feizi, ruling with the clarity and absolute
+    authority of the law and the strength of fear and reward. '
+  - 'Your reign has brought order and stability, ensuring the survival of the state
+    in a world of chaos. '
+  - Though some may call it harsh, the people recognize the unwavering authority
+    and justice of your rule.
+  - Under your leadership, the state is unchallenged, a testament to the power of
+    control and the inevitability of strength.
+  displayTime: 4
   fadeTime: 1
 --- !u!1 &8198310548232718763
 GameObject:

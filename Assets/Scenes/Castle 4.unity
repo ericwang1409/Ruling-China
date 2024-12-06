@@ -175,6 +175,42 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Kongzi: \u201CGuide them with Virtue, and keep them in line by "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'means of ritual; the people will have a sense of shame and '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: "will rectify themselves.\u201D You should lead by example and "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'demonstrate moral practices to the governor and guide him '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'toward ethical behavior, making him realize the damage he is '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'causing to the people with his corruption and send scholars to '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'the governor to educate the governor on his duty to serve the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'people and encourage moral behavior. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5297,6 +5333,42 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[0]
+      value: "Mozi: \u201CHeaven desires what is right and dislikes what is not "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[1]
+      value: 'right. This being so, if I lead the people of the world to act '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[2]
+      value: 'in accordance with what is right, then I will be doing what '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[3]
+      value: "Heaven desires.\u201D You should encourage the governor to act for "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[4]
+      value: 'the collective good, appealing to their role as a superior who '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[5]
+      value: 'must prioritize the welfare of the people. Remind him that he '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[6]
+      value: 'must act as a good superior or Heaven will punish him for '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[7]
+      value: 'acting wrongly. '
+      objectReference: {fileID: 0}
     - target: {fileID: 8593564624069931730, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -5415,6 +5487,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Han Feizi: \u201CLaws are the means by which to put a stop to "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'excesses and eliminate selfishness. Strict punishments are the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'means by which to ensure that orders are fulfilled and those '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: "below are constrained.\u201D You should punish the governor for "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'acting against the state and being influenced by greed. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'Execute him and replace him with someone loyal. This way no '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'one will try anything like this again. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5498,8 +5602,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHouseDialogue:
     lines:
-    - Lab Sign
-    - Lab TTTT
+    - 'A governor has been embezzling funds meant for public works. '
+    - 'The community is angry, but the governor is powerful and '
+    - 'connected. How should this issue be handled? '
 --- !u!212 &1639198323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9598,6 +9703,35 @@ PrefabInstance:
     - target: {fileID: 7491192585428709661, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
       propertyPath: m_Name
       value: CoffeeLady 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Zhuangzi: \u201CRights and wrongs are what I mean by \u2018essence.\u2019
+        By "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: "\u2018no essence,\u2019 I mean people not letting in good and bad to "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: "hurt them. Follow the natural and do not help life along.\u201D Do "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'not interfere. Nature corrects itself in time. Allow the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: "governor\u2019s greed to destroy him while you focus on creating "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'small, sustainable ways for the community to flourish. '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -175,6 +175,42 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Kongzi: \u201CDo not impose upon others what you yourself do not "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'desire. In this way, you will encounter no resentment in your '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: "public or private life.\u201D As the ruler, you should encourage "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'these townspeople to live with virtue and convince them to not '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'act in a way that would cause strife between communities that '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'could cause harm to them. Provide proper education to ensure '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'that their practices are virtuous and harmonious to each other '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'and the towns. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4601,7 +4637,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue1.lines.Array.size
-      value: 6
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.size
@@ -4613,55 +4649,64 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue1.lines.Array.data[1]
-      value: "In this way, you will encounter no resentment in your public or private
-        life.\u201D"
+      value: ' In this way, you will encounter no resentment'
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue1.lines.Array.data[2]
-      value: As the ruler, you should encourage these townspeople to live with virtue
-        and
+      value: " in your public or private life.\u201D As the ruler, you should encourage"
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue1.lines.Array.data[3]
-      value: convince them to not act in a way that would cause strife between communities
-        that could cause harm to them.
+      value: these townspeople to live with virtue and convince them to not act in
+        a way that
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue1.lines.Array.data[4]
-      value: ' Provide proper education to ensure that their practices are virtuous
-        and harmonious'
+      value: would cause strife between communities that could cause harm to them.
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue1.lines.Array.data[5]
-      value: 'to each other and the towns. '
+      value: Provide proper education to ensure that their practices are
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[6]
+      value: Provide proper education to ensure that their practices are
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue1.lines.Array.data[7]
+      value: 'virtuous and harmonious to each other and the towns. '
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.data[0]
-      value: Do not impose upon others what you yourself do not desire.
+      value: "Mozi: \u201CThe business of a benevolent person is to promote what "
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.data[1]
-      value: "In this way, you will encounter no resentment in your public or private
-        life.\u201D"
+      value: "is beneficial to the world and eliminate what is harmful.\u201D "
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.data[2]
-      value: As the ruler, you should encourage these townspeople to live with virtue
-        and
+      value: 'Assist the townspeople with their situation as is your job as '
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.data[3]
-      value: convince them to not act in a way that would cause strife between communities
-        that could cause harm to them.
+      value: 'their leader, but you should investigate what happens in the '
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.data[4]
-      value: ' Provide proper education to ensure that their practices are virtuous
-        and harmonious'
+      value: 'other towns and order them to not disobey your command to '
       objectReference: {fileID: 0}
     - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: dialogue2.lines.Array.data[5]
-      value: 'to each other and the towns. '
+      value: 'cause harm to other people as it harms the collective good. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: ' to ensure that their practices are virtuous and harmonious'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: to each other and the towns.
       objectReference: {fileID: 0}
     - target: {fileID: 8593564624069931730, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: m_Sprite
@@ -4780,6 +4825,42 @@ PrefabInstance:
     - target: {fileID: 7491192585428709661, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
       propertyPath: m_Name
       value: CoffeeLady 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Han Feizi: \u201CWhen punishments are weighty, the noble will not "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: "dare to treat the base lightly.\u201D Investigate the poisoning and "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'punish those who committed the crime severely and swiftly. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'This will deter any future attempts. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'other towns and order them to not disobey your command to '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'cause harm to other people as it harms the collective good. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'disobey your command to cause harm to other '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'people as it harms the collective good. '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8965,6 +9046,38 @@ PrefabInstance:
     - target: {fileID: 7491192585428709661, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
       propertyPath: m_Name
       value: CoffeeLady 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Zhuangzi: \u201CI heard from my teacher, Kongzi, that the sage does "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'not make it his business to attend to affairs. He does not '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'seek gain or avoid loss. He does not enjoy being sought out '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: "and does not follow any Way.\u201D You should leave the affairs of "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'the town alone. By not interfering, you allow them to figure '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'it out naturally, figuring out a way to follow the natural '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'order, and the situation will be resolved. '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

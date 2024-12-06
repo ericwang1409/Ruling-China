@@ -175,6 +175,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Kongzi: \u201CIf the gentleman abandons Goodness, how can he merit "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'the name? The gentleman does not go against Goodness even for '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'the amount of time required to finish a meal. Even in times of '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: "urgency or distress, he necessarily accords with it.\u201D Continue "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'offering the position to the official. Convince him that he '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'needs to act to be virtuous and help the kingdom run smoothly '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'even if it may not necessarily be what he wishes to do. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4771,6 +4803,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Mozi: \u201CThe Son of Heaven was established, but because his "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'strength was not sufficient for the task of ruling the entire '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'world, they chose among the most worthy and capable in the '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'world and installed the best among them as the three imperial '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: "ministers.\u201D As the official is one of the most capable and "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'worthy person for the job, you should convince him to take up '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'the position and work for the collective good of the people. '
+      objectReference: {fileID: 0}
     - target: {fileID: 8593564624069931730, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -4889,6 +4953,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Han Feizi: \u201CA ruler must not reveal his desires, for if he "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'does so, his ministers will carve and polish themselves '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: "accordingly.\u201D The ruler should leave the official alone, as "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'insisting could undermine authority and show desperation. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4972,8 +5056,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHouseDialogue:
     lines:
-    - Lab Sign
-    - Lab T
+    - 'A retired official has been offered a powerful position in '
+    - 'court, believing that his wisdom will help the kingdom '
+    - 'court, believing that his wisdom will help the kingdom '
+    - 'propsper. However, he declines the position. How do you '
+    - respond?
 --- !u!212 &1639198323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9072,6 +9159,30 @@ PrefabInstance:
     - target: {fileID: 7491192585428709661, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
       propertyPath: m_Name
       value: CoffeeLady 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Zhuangzi: \u201CNow, would that turtle rather have its bones "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: "treasured in death, or be alive dragging its tail in the mud?\u201D "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'Leave the official alone as he desires freedom more than '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'prestige and his refusal reflects him following the Way and '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'seeking freedom. '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

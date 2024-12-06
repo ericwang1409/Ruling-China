@@ -175,6 +175,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Kongzi: \u201CThe gentleman wishes to be slow to speak, but quick "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: "to act.\u201D Investigate the significance of benefit of the "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'research. Should the research support the state and cultivate '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'virtue, you should quickly support the research. Education and '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'the cultivation of virtue are necessary for the well-being of '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f7ef760a5ca594dfda7f5423c9360c8f, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'society. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4671,6 +4699,46 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Mozi: \u201CWhen sage-kings rule, whenever they issue orders, "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'undertake an enterprise, employ the people, or expend their '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'resources, they never do anythingthat is not useful. And so, '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'they never waste their resources or overburden their people '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: "yet are able to generate great benefits.\u201D You should support "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'their work if it directly benefits the greatest number of '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'people. Seeing as how this research will bring significant '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: 'benefit to the people, you should support the scholars and '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
+      propertyPath: dialogue2.lines.Array.data[8]
+      value: 'bring prosperity to your kingdom. '
+      objectReference: {fileID: 0}
     - target: {fileID: 8593564624069931730, guid: c33c9e6df0f274b1f93dfa3254a24c78, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -4789,6 +4857,54 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoffeeLady 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Han Feizi: \u201CTherefore, when ministers lay out their proposals, "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: 'such a ruler uses these proposals to assign them tasks, and on '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'the basis of the success of their tasks calls them to account. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'If their results correspond to their assigned tasks, and their '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'tasks correspond to their proposals, they are rewarded. If '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'their results do not correspond to their assigned tasks or '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[6]
+      value: 'their tasks do not correspond to their proposals, they are '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[7]
+      value: "punished.\u201D Allow the scholars to work on their research and "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[8]
+      value: 'assess their findings after. Should it prove beneficial, '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[9]
+      value: "reward them. If it isn\u2019t what they said it would be, punish "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: 9628f61f7c8514917ae3ffc93275fa51, type: 3}
+      propertyPath: dialogue2.lines.Array.data[10]
+      value: 'them for the wasted resources. '
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4872,8 +4988,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHouseDialogue:
     lines:
-    - Lab Sign
-    - T
+    - 'A group of scholars is conducting important research that '
+    - 'promises significant insights, but the research requires '
+    - "considerable resources\u2014funds, materials, and manpower. Should "
+    - 'the ruler allocate these resources to support the scholars, or '
+    - 'should the resources be used for other needs? '
 --- !u!212 &1639198323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8972,6 +9091,34 @@ PrefabInstance:
     - target: {fileID: 7491192585428709661, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
       propertyPath: m_Name
       value: CoffeeLady 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[0]
+      value: "Zhuangzi: \u201CLife is bounded. Knowledge is unbounded. Using the "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[1]
+      value: "bounded to follow the unbounded is dangerous.\u201D Don\u2019t support "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[2]
+      value: 'the scholars as their research is very costly and seeking '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[3]
+      value: 'continous knowledge goes against the natural order of things, '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[4]
+      value: 'creating danger in society. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7984062733463499430, guid: f79049a324f7247e09de6046f7c7ec3b, type: 3}
+      propertyPath: dialogue2.lines.Array.data[5]
+      value: 'creating danger in society. '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
