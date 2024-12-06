@@ -24,7 +24,7 @@ public class Cutscene : MonoBehaviour, IPlayerTriggerable
             yield return action.Play();
         }
 
-        GameController.Instance.StartFreeRoamState();
+        // GameController.Instance.StartFreeRoamState();
     } 
 
     public void AddAction(CutsceneAction action)

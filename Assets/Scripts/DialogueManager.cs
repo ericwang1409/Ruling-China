@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Unity.VisualScripting;
 
 // This script used to manage dialogue ...
 // 
@@ -22,6 +23,7 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] int lettersPerSecond;
 
     bool isTyping;
+    bool wantChoices = false;
     public bool IsShowing { get; private set; }
 
     // No idea what this does, I think it talks to interactable.cs ...
@@ -49,9 +51,15 @@ public class DialogueManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Z) && !isTyping) {
             currentLine++;
-            if (currentLine < dialogue.Lines.Count) {
+            if (currentLine < dialogue.Lines.Count - 1) {
                 StartCoroutine(TypeDialogue(dialogue.Lines[currentLine]));
-            } else {
+            } else if (currentLine == dialogue.Lines.Count - 1) {
+                StartCoroutine(TypeDialogue(dialogue.Lines[currentLine]));
+                if (wantChoices) {
+                    StartCoroutine(RunChoices());
+                }
+            } 
+            else {
                 currentLine = 0;
                 IsShowing = false;
                 dialogueBox.SetActive(false);
@@ -61,18 +69,26 @@ public class DialogueManager : MonoBehaviour
         }
     }
     // Turns on dialogue box, then starts to show text
-    public IEnumerator ShowDialogue(Dialogue dialogue, Action onFinished=null, List<string> choices=null, Action<int> onChoiceSelected=null) {
+    public IEnumerator ShowDialogue(Dialogue dialogue, Action onFinished=null, bool localWantChoices=false, Action<int> onChoiceSelected=null) {
         yield return new WaitForEndOfFrame();
         OnShowDialogue?.Invoke();
         IsShowing = true;
         this.dialogue = dialogue;
         onDialogFinished = onFinished;
+        wantChoices = localWantChoices;
         
         dialogueBox.SetActive(true);
         StartCoroutine(TypeDialogue(dialogue.Lines[0]));
-        if (choices != null && choices.Count > 1) {
-            yield return choiceBox.ShowChoices(choices, onChoiceSelected);
-        }
+        // if (choices != null && choices.Count > 1) {
+        //     yield return choiceBox.ShowChoices(choices, onChoiceSelected);
+        // }
+    }
+
+    public IEnumerator RunChoices() {
+        yield return choiceBox.ShowChoices(new List<string>() { "Mozi", "Kongzi", "Han Feizi", "Zhuangzi", "Exit" }, (choice) => { 
+            if (choice <= 3) 
+                DayTracker.Instance.choose_counter[choice]++; 
+        });
     }
 
     // Prints dialogue line by line instead of just displaying

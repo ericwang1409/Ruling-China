@@ -15,6 +15,7 @@ public class DayTracker : MonoBehaviour
     public GameObject townNPC;
     public GameObject personalComputer;
     public GameObject endScreenTrigger;
+    public GameObject chineseEnding;
     public GameObject labComputer;
 
     public event Action DayChanged;
@@ -34,6 +35,9 @@ public class DayTracker : MonoBehaviour
             }
         }
     }
+
+    // create a int list of length 4
+    public List<int> choose_counter = new List<int>(new int[] { 0, 0, 0, 0 });
 
     private void OnDayChanged()
     {
@@ -76,6 +80,9 @@ public class DayTracker : MonoBehaviour
             spy.SetActive(true);
             endScreenTrigger.SetActive(true);
             spy.transform.position = new Vector3(39, 4.4f, 0);
+        }
+        else if (UnityEngine.SceneManagement.SceneManager.GetActiveScene().name == "Castle 5") {
+            chineseEnding.SetActive(true);
         }
         else
         {

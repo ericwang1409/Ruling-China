@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 using UnityEngine.UI;
 
 public class CameraShaker : MonoBehaviour
@@ -12,7 +13,10 @@ public class CameraShaker : MonoBehaviour
 
     public GameObject dialogueText;
 
-    public TextSequencer textSequencer;
+    public TextSequencer textSequencer1;
+    public TextSequencer textSequencer2;
+    public TextSequencer textSequencer3;
+    public TextSequencer textSequencer4;
     public void StartShaking()
     {
         if (!isShaking)
@@ -25,20 +29,21 @@ public class CameraShaker : MonoBehaviour
     IEnumerator Shaking()
     {
         Vector3 startPosition = transform.localPosition;
-        float elapsedTime = 0f;
+        // float elapsedTime = 0f;
 
-        isShaking = true;
+        // isShaking = true;
 
-        while (elapsedTime < duration)
-        {
-            elapsedTime += Time.deltaTime;
-            float strength = curve.Evaluate(elapsedTime / duration);
-            transform.localPosition = startPosition + Random.insideUnitSphere * strength;
-            yield return null;
-        }
+        // while (elapsedTime < duration)
+        // {
+        //     elapsedTime += Time.deltaTime;
+        //     float strength = curve.Evaluate(elapsedTime / duration);
+        //     transform.localPosition = startPosition + Random.insideUnitSphere * strength;
+        //     yield return null;
+        // }
+        yield return null;
 
         transform.localPosition = startPosition;
-        isShaking = false;
+        // isShaking = false;
         StartCoroutine(FadeToBlack());
         dialogueText.SetActive(false);
     }
@@ -67,8 +72,24 @@ public class CameraShaker : MonoBehaviour
         }
         yield return new WaitForSeconds(1.0f);
 
-        textSequencer.StartTextSequence();
-        
+        int max_val = DayTracker.Instance.choose_counter.Max();
+        int index = DayTracker.Instance.choose_counter.IndexOf(max_val);
+
+        switch (index)
+        {
+            case 0:
+                textSequencer1.StartTextSequence();
+                break;
+            case 1:
+                textSequencer2.StartTextSequence();
+                break;
+            case 2:
+                textSequencer3.StartTextSequence();
+                break;
+            case 3:
+                textSequencer4.StartTextSequence();
+                break;
+        }        
     }
 }
 
